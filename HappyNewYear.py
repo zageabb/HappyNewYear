@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the app (optional)
-st.title("Dancing Santa 🎅")
+#st.title("Dancing Santa 🎅")
 
 # Embed the GIF
 st.markdown(
